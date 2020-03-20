@@ -8,4 +8,8 @@ git clone https://github.com/bilaldzdz/xkiller.git
 
  cd xkiller
 
-installateur pip2 mécaniser
+pip3 install requests bs4
+
+pip install mechanize
+
+python or python3 xkiller2.py
